@@ -4,8 +4,9 @@ Project Overview The system comprises several components including a user interf
 
 Libraries and Dependencies The project utilizes several libraries:
 
-OpenCV: For image and video processing.
-face_recognition: For facial recognition operations.
-dlib: For facial landmark detection.
-Tkinter: For creating the graphical user interface.
-scipy: For calculating distances in liveness detection.
+1. OpenCV: For image and video processing.
+2. face_recognition: For facial recognition operations.
+3. dlib: For facial landmark detection.
+4. Tkinter: For creating the graphical user interface.
+5. scipy: For calculating distances in liveness detection.
+6. imutils: For convenient handling of image processing functions.
