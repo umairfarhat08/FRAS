@@ -1,4 +1,0 @@
-Just load up the FASPROJECT ON to the PyCharm and your good to go
-
-Face_Recognition has liveness and thats the Main File, but you will have to have a good quality Webcam and Image for it to work properly.
-Face_Recognition_noLiveness has a little bit of liveness but not that effective
